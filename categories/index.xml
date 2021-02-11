@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Future Imperfect Slim</title>
-    <link>stefanocasirati.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Future Imperfect Slim</description>
+    <title>Categories on Stefano Casirati</title>
+    <link>example.com/categories/</link>
+    <description>Recent content in Categories on Stefano Casirati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="stefanocasirati.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="example.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>syntax</title>
-      <link>stefanocasirati.github.io/categories/syntax/</link>
+      <link>example.com/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/categories/syntax/</guid>
+      <guid>example.com/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>stefanocasirati.github.io/categories/themes/</link>
+      <link>example.com/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/categories/themes/</guid>
+      <guid>example.com/categories/themes/</guid>
       <description></description>
     </item>
     

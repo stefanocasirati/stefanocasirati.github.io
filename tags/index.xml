@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Future Imperfect Slim</title>
-    <link>stefanocasirati.github.io/tags/</link>
-    <description>Recent content in Tags on Hugo Future Imperfect Slim</description>
+    <title>Tags on Stefano Casirati</title>
+    <link>example.com/tags/</link>
+    <description>Recent content in Tags on Stefano Casirati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="stefanocasirati.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>stefanocasirati.github.io/tags/css/</link>
+      <link>example.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/css/</guid>
+      <guid>example.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>stefanocasirati.github.io/tags/html/</link>
+      <link>example.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/html/</guid>
+      <guid>example.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>stefanocasirati.github.io/tags/markdown/</link>
+      <link>example.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/markdown/</guid>
+      <guid>example.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>stefanocasirati.github.io/tags/themes/</link>
+      <link>example.com/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/themes/</guid>
+      <guid>example.com/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>privacy</title>
-      <link>stefanocasirati.github.io/tags/privacy/</link>
+      <link>example.com/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/privacy/</guid>
+      <guid>example.com/tags/privacy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>stefanocasirati.github.io/tags/shortcodes/</link>
+      <link>example.com/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/shortcodes/</guid>
+      <guid>example.com/tags/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>stefanocasirati.github.io/tags/text/</link>
+      <link>example.com/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/text/</guid>
+      <guid>example.com/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>stefanocasirati.github.io/tags/emoji/</link>
+      <link>example.com/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>stefanocasirati.github.io/tags/emoji/</guid>
+      <guid>example.com/tags/emoji/</guid>
       <description></description>
     </item>
     
