@@ -3,117 +3,117 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>example.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/markdown-syntax.fr/</loc>
+    <loc>/blog/markdown-syntax.fr/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/markdown-syntax/</loc>
+    <loc>/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/</loc>
+    <loc>/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/categories/syntax/</loc>
+    <loc>/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/themes/</loc>
+    <loc>/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/categories/themes/</loc>
+    <loc>/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/rich-content.fr/</loc>
+    <loc>/blog/rich-content.fr/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/rich-content/</loc>
+    <loc>/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/shortcodes/</loc>
+    <loc>/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/placeholder-text/</loc>
+    <loc>/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/text/</loc>
+    <loc>/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/emoji-support.fr/</loc>
+    <loc>/blog/emoji-support.fr/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/blog/emoji-support/</loc>
+    <loc>/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>example.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
 </urlset>

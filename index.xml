@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stefano Casirati</title>
-    <link>example.com/</link>
+    <link>/</link>
     <description>Recent content on Stefano Casirati</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Guide de syntaxe de Markdown</title>
-      <link>example.com/blog/markdown-syntax.fr/</link>
+      <link>/blog/markdown-syntax.fr/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/markdown-syntax.fr/</guid>
+      <guid>/blog/markdown-syntax.fr/</guid>
       <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>example.com/blog/markdown-syntax/</link>
+      <link>/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/markdown-syntax/</guid>
+      <guid>/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contenu riche</title>
-      <link>example.com/blog/rich-content.fr/</link>
+      <link>/blog/rich-content.fr/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/rich-content.fr/</guid>
+      <guid>/blog/rich-content.fr/</guid>
       <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>example.com/blog/rich-content/</link>
+      <link>/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/rich-content/</guid>
+      <guid>/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Placeholder Text</title>
-      <link>example.com/blog/placeholder-text/</link>
+      <link>/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/placeholder-text/</guid>
+      <guid>/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
 pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Emoji Support</title>
-      <link>example.com/blog/emoji-support.fr/</link>
+      <link>/blog/emoji-support.fr/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/emoji-support.fr/</guid>
+      <guid>/blog/emoji-support.fr/</guid>
       <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
  La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
 Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
@@ -67,28 +67,28 @@ Pour activer globalement emoji, définissez enableEmoji sur true dans la [config
     
     <item>
       <title>Emoji Support</title>
-      <link>example.com/blog/emoji-support/</link>
+      <link>/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/blog/emoji-support/</guid>
+      <guid>/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>À propos de</title>
-      <link>example.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>example.com/about/</guid>
+      <guid>/about/</guid>
       <description>Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d&amp;rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.</description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>example.com/contact/</link>
+      <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>example.com/contact/</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
