@@ -8,12 +8,30 @@
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="stefanocasirati.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Guide de syntaxe de Markdown</title>
+      <link>stefanocasirati.github.io/blog/markdown-syntax.fr/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>stefanocasirati.github.io/blog/markdown-syntax.fr/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>stefanocasirati.github.io/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>stefanocasirati.github.io/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contenu riche</title>
+      <link>stefanocasirati.github.io/blog/rich-content.fr/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>stefanocasirati.github.io/blog/rich-content.fr/</guid>
+      <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -37,6 +55,18 @@ pectora summo.&lt;/p&gt;</description>
     
     <item>
       <title>Emoji Support</title>
+      <link>stefanocasirati.github.io/blog/emoji-support.fr/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>stefanocasirati.github.io/blog/emoji-support.fr/</guid>
+      <description>Emoji peut être activé dans un projet Hugo de plusieurs manières.
+ La fonction [emojify] (https://gohugo.io/functions/emojify/) peut être appelée directement dans les modèles ou [Inline Shortcodes] (https://gohugo.io/templates/shortcode-templates/#inline- codes courts).
+Pour activer globalement emoji, définissez enableEmoji sur true dans la [configuration] de votre site (https://gohugo.io/getting-started/configuration/), puis vous pourrez taper des codes abrégés emoji directement dans les fichiers de contenu; par exemple.
+ 🙈 : see_no_evil: 🙉 : hear_no_evil: : speak_no_evil: Le [aide-mémoire Emoji] (http://www.</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
       <link>stefanocasirati.github.io/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -45,18 +75,16 @@ pectora summo.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>About</title>
+      <title>À propos de</title>
       <link>stefanocasirati.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>stefanocasirati.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d&amp;rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.</description>
     </item>
     
     <item>
-      <title>Contact</title>
+      <title>Kontakt</title>
       <link>stefanocasirati.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
