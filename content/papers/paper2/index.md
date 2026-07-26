@@ -18,7 +18,7 @@ Higher global temperatures and intensification of extreme hydrologic events, suc
 ---
 
 ##### Citation:
-**Casirati S**, Conklin MH and Safeeq M (2023) Influence of snowpack on forest water stress in the Sierra Nevada. Front. For. Glob. Change 6:1181819. doi: 10.3389/ffgc.2023.1181819
+**Casirati S**, Conklin MH, and Safeeq M (2023) Influence of snowpack on forest water stress in the Sierra Nevada. Front. For. Glob. Change 6:1181819. doi: 10.3389/ffgc.2023.1181819
 
 ```latex
 @article{Casirati2023,
