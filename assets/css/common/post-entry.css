@@ -97,14 +97,14 @@
     float: left;                 /* Change to 'right' if preferred */
     margin-right: 25px;          /* Adds space between the image and text */
     margin-top: 5px;             /* Aligns the top of the image with text */
-    max-width: 250px;            /* Forces a smaller maximum container footprint */
+    max-width: 150px;            /* Forces a smaller maximum container footprint */
 }
 
 .entry-cover img {
     border-radius: var(--radius);
     
     /* 2. Scale the image size down to fit the smaller container */
-    width: 100%;                 /* Keeps image responsive inside the 250px cap */
+    width: 150px;                 /* Keeps image responsive inside the 250px cap */
     height: auto;
 }
 
