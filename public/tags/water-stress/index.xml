@@ -6,8 +6,26 @@
     <description>Recent content in Water Stress on Stefano Casirati</description>
     <generator>Hugo -- 0.164.0</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/water-stress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hydrological Response to Compounding Impacts of Climate Change and Forest Management in the Upper Kings River Basin, CA, USA</title>
+      <link>http://localhost:1313/papers/paper5/</link>
+      <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper5/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract:&lt;/h5&gt;
+&lt;p&gt;In the western United States, the Sierra Nevada region experienced decades of fire suppression-driven changes in forest structure and composition, resulting in increased vulnerability to drought, water stress, tree mortality, and exposure to severe wildfires. Sierra Nevada&amp;rsquo;s watersheds and forests are predicted to undergo warmer and drier conditions due to climate change, making them even more vulnerable to disturbances. Restoring forests by reducing forest density and fuel accumulation has the potential to improve forest resilience to droughts and climate change, increase water availability, and provide other ecosystem benefits. In this study, we investigated the individual and compounding effects of forest treatments on evapotranspiration and streamflow in the upper Kings River basin under different warming scenarios using the SWAT+ model. We simulated large-scale forest treatments throughout the landscape to evaluate the hydrological response to warming across a water-energy gradient and the extent to which forest treatments can offset the warming-driven response. Warming increased evapotranspiration in energy-limited forests, while in water-limited forests, evapotranspiration declined due to increased water stress. The water made available through biomass reduction due to forest treatments was directed towards increasing potential runoff or sustaining the remaining trees by providing additional water for evapotranspiration, controlled by water/energy availability. We found that large-scale forest restoration in the upper Kings River basin has the potential to partially mitigate warming impacts on streamflow by a maximum of 48% and 36% under +1.5°C and +3.0°C warming, respectively, thus reducing the severity of warming impacts on streamflow and vegetation water stress. These benefits are most prominent in the first year following forest treatment and gradually decline over time, persisting up to 10 years.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Effect of Forest Management Practices on Water Balance Across a Water–Energy Gradient in the Upper Kings River Basin, USA</title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>&lt;hr&gt;
+&lt;h5 id=&#34;abstract&#34;&gt;Abstract:&lt;/h5&gt;
+&lt;p&gt;Headwater watersheds and forests play a crucial role in ensuring water security for the western United States. Reducing forest biomass from the current overgrown forests can mitigate the severity and impact of wildfires and offer additional competing ecohydrological benefits. A reduction in canopy interception and transpiration following forest treatments can lead to an increase in available water for the remaining trees and runoff. However, the impact of forest management on water balance can be highly variable due to differences in climate, topography, location and vegetation. In this study, we used the Soil Water Assessment Tool Plus model to investigate how decisions regarding location, intensity and scale of forest treatments can affect both evapotranspiration and streamflow in a large watershed such as the upper Kings River Basin (3998 km2). The model was parameterized using a multiobjective calibration of streamflow, snow water equivalent and evapotranspiration. Various forest treatment scenarios were simulated across different years and regions in the landscape. Modelling results show that during dry years, streamflow gains from biomass reduction are primarily originated from energy-limited regions (i.e., 82% of total streamflow increase in the first year). In water-limited regions, the water is prioritized for sustaining remaining trees, improving forest health and recharging subsurface storage, rather than increasing streamflow. During wet years, the contribution to streamflow from biomass reduction comes from both energy- and water-limited areas. These findings emphasize the importance of evaluating forest treatments on a larger scale. The competing benefits for forests and downstream users are driven by the energy and water limitations of the vegetation targeted by forest treatments, as well as the climate variability that modulates the water availability and forest recovery time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Influence of snowpack on forest water stress in the Sierra Nevada</title>
       <link>http://localhost:1313/papers/paper2/</link>

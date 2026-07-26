@@ -6,7 +6,7 @@ author: ["<b>Stefano Casirati</b>", "Martha Conklin", "Mohammad Safeeq"]
 
 cover:
     image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
+    alt: ""
     relative: true
  
 ---

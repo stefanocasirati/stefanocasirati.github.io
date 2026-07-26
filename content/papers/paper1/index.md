@@ -6,7 +6,7 @@ author: ["Maria Cristina Rulli" , "<b>Stefano Casirati</b>", "Jampel Dell’Ange
 
 cover:
     image: "paper1.png"
-    alt: "Dimensions of a sausage dog"
+    alt: ""
     relative: true
  
 ---
