@@ -1,7 +1,7 @@
 ---
 title: "Hydrological Response to Compounding Impacts of Climate Change and Forest Management in the Upper Kings River Basin, CA, USA" 
 date: 2026-01-06
-tags: ["ecohydrology", "water stress", "evapotranspiration", "forest management", "hydrological modeling", "mediterranean climate", "streamflow", "warming", "Budyko", "SWAT+"]
+tags: ["Ecohydrology", "Water stress", "Evapotranspiration", "Forest management", "Hydrological modeling", "Mediterranean climate", "Streamflow", "Warming", "Budyko", "SWAT+", "Process Based", "Snow"]
 author: ["<b>Stefano Casirati</b>", "Martha Conklin", "Mohammad Safeeq"]
 
 cover:

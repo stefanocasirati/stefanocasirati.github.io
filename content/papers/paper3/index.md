@@ -1,7 +1,7 @@
 ---
 title: "Effect of Forest Management Practices on Water Balance Across a Water–Energy Gradient in the Upper Kings River Basin, USA" 
 date: 2025-02-05
-tags: ["ecohydrology", "water stress", "evapotranspiration", "forest management", "hydrological modeling", "mediterranean climate", "streamflow", "water", "energy", "SWAT+"]
+tags: ["Ecohydrology", "Water stress", "Evapotranspiration", "Forest management", "Hydrological modeling", "Mediterranean climate", "Streamflow", "Water", "Energy", "SWAT+","Process Based"]
 author: ["<b>Stefano Casirati</b>", "Martha Conklin", "Saswata Nandi", "Mohammad Safeeq"]
 
 cover:

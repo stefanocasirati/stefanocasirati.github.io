@@ -1,4 +1,4 @@
-baseURL: "https://stefanocasirati.github.io/" 
+baseURL: "https://stefanocasirati.github.io/"
 title: Stefano Casirati
 theme: PaperMod
 
@@ -8,100 +8,101 @@ pagination:
   pagerSize: 20
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Publications
-          url: papers/
-          weight: 2
-            #        - name: Resources
-            #url: courses/
-            #weight: 3
-    
+  main:
+    - name: Publications
+      url: papers/
+      weight:
+        2
+        #        - name: Resources
+        #url: courses/
+        #weight: 3
 
 params:
-    description: "This website hosts Stefano Casirati's research papers, curriculum vitae, and contact information."
-    author: Stefano Casirati
-    # googleAnalyticsID: "G-XXXXX"
-    DateFormat: "January 2006"
-    defaultTheme: light
-    hideFooter: false
-    disableThemeToggle: true
-    ShowShareButtons: false
-    ShowReadingTime: false
-    disableSpecial1stPost: true
-    disableAnchoredHeadings: true
-    ShowPostNavLinks: false
-    ShowBreadCrumbs: false
-    ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
-    disableScrollToTop: true
-    TocOpen: true
-    ShowWordCount: false
-    UseHugoToc: true
-    comments: false
-    math: true
-    profileMode:
-          enabled: true
-          title: Stefano Casirati
-          subtitle: "I am a Postdoctoral researcher at UC Berkeley. My research lies at the intersection of ecohydrology, computational hydrology, and Earth system modeling. I investigate how land-use change and human activities, such as irrigation, shape hydrologic processes and land–atmosphere interactions across spatial and temporal scales. By combining statistical and geospatial analyses with process-based models and diverse data sources, including field observations and remote sensing, I explore the feedback linking vegetation dynamics, water fluxes, and climate variability. Before joining UC Berkeley, I earned my Ph.D. in Environmental Systems at UC Merced, where I examined how climate stressors and forest treatments influence mountain hydrology and forest ecosystems."
-          imageUrl: "picture.jpg"
-          imageWidth: 160
-          imageHeight: 160
-          buttons:
-            - name: Publications
-              url: papers/
-                #- name: Resources
-                #url: courses/
-            - name: Tags
-              url: tags/
-            
+  description: "This website hosts Stefano Casirati's research papers, curriculum vitae, and contact information."
+  author: Stefano Casirati
+  # googleAnalyticsID: "G-XXXXX"
+  DateFormat: "2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: ["books", "courses", "papers", "data"]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  profileMode:
+    enabled: true
+    title: Stefano Casirati
+    subtitle: "I am a Postdoctoral researcher at UC Berkeley. My research lies at the intersection of ecohydrology, computational hydrology, and Earth system modeling. I investigate how land-use change and human activities, such as irrigation, shape hydrologic processes and land–atmosphere interactions across spatial and temporal scales. By combining statistical and geospatial analyses with process-based models and diverse data sources, including field observations and remote sensing, I explore the feedback linking vegetation dynamics, water fluxes, and climate variability. Before joining UC Berkeley, I earned my Ph.D. in Environmental Systems at UC Merced, where I examined how climate stressors and forest treatments influence mountain hydrology and forest ecosystems."
+    imageUrl: "picture.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+      - name: Publications
+        url: papers/
+      - name: Tags
+        url: tags/
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:scasirati@berkeley.edu
-            #- name: Zoom
-            #url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-            #- name: Office Hours
-            #  url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=njTDi3gAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/stefanocasirati
-            # - name: YouTube
-            #  url: https://www.youtube.com/@user
-        - name: OrcID
-          url: https://orcid.org/0009-0002-1508-7869
-        - name: Linkedin
-          url: https://www.linkedin.com/in/stefano-c-a54bb2a7/
-            #- name: Bluesky
-            #url: https://bsky.app/profile/user.bsky.social
+  socialIcons:
+    - name: CV
+      url: cv.pdf
+    - name: Email
+      url:
+        mailto:scasirati@berkeley.edu
+        #- name: Zoom
+        #url: https://www.zoom.us/my/user
+    - name: Location
+      url:
+        location/
+        #- name: Office Hours
+        #  url: officehours/
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=njTDi3gAAAAJ&hl=en
+    - name: GitHub
+      url:
+        https://github.com/stefanocasirati
+        # - name: YouTube
+        #  url: https://www.youtube.com/@user
+    - name: OrcID
+      url: https://orcid.org/0009-0002-1508-7869
+    - name: Linkedin
+      url:
+        https://www.linkedin.com/in/stefano-c-a54bb2a7/
+        #- name: Bluesky
+        #url: https://bsky.app/profile/user.bsky.social
 
-    assets:
-        disableScrollBarStyle: true
-    cover:
-        hiddenInList: false
-        hiddenInSingle: true
-    label:
-      text: "Stefano Casirati"
-      icon: favicon.ico
-      iconHeight: 18
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: false
+    hiddenInSingle: true
+  label:
+    text: "Stefano Casirati"
+    icon: favicon.ico
+    iconHeight: 18
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-    highlight:
-        guessSyntax: true
-        style: autumn 
-    tableOfContents:
-        endLevel: 2
-        ordered: false
-        startLevel: 2
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2

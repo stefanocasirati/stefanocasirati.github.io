@@ -1,7 +1,7 @@
 ---
 title: "Influence of snowpack on forest water stress in the Sierra Nevada" 
 date: 2023-06-04
-tags: ["Water Stress", "Tree Mortality", "Snow", "Drought", "Sierra Nevada", "Remote Sensing", "GAM"]
+tags: ["Water Stress", "Tree Mortality", "Snow", "Drought", "Sierra Nevada", "Remote Sensing", "GAM", "Data Driven", "NDII", "Water Deficit"]
 author: ["<b>Stefano Casirati</b>", "Martha Conklin", "Mohammad Safeeq"]
 
 cover:

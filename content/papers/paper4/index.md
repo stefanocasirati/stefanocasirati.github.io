@@ -1,7 +1,7 @@
 ---
 title: "A Model-Based Evaluation of the Effects of Irrigation Expansion on Regional and Global Land Surface Climate" 
 date: 2025-08-27
-tags: ["irrigation", "land", "model", "evapotranspiration", "expansion", "sustainable"]
+tags: ["Irrigation", "Land", "Model", "Evapotranspiration", "Expansion", "Sustainable", "NASA GEOS", "LSM", "NASA CLSM", "Temperature", "Land Surface", "Cooling", "Irrigation Module", "Process Based"]
 author: ["<b>Stefano Casirati</b>", "Paolo D’Odorico", "Rolf H. Reichle", "Tasnuva Rouf", "Milton Stookey", "Manuela Girotto"]
 
 cover:
