@@ -56,8 +56,8 @@ params:
               url: papers/
                 #- name: Resources
                 #url: courses/
-                #            - name: Tags
-                # url: tags/
+            - name: Tags
+              url: tags/
             
 
     socialIcons:
