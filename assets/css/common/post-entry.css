@@ -43,10 +43,6 @@
      border: 2px solid var(--darkcolor);
 }
 
-.tag-entry .entry-cover {
-    display: none;
-}
-
 /* Title row — full width, always first */
 .entry-header {
     order: 1;
