@@ -17,14 +17,15 @@ Irrigation is a major anthropogenic modification of the land surface that can in
 ---
 
 ##### Citation:
-**Casirati, S.**, D'Odorico P., Fung I., Molod A., and Girotto M. "Differential impacts of irrigation on precipitation across the United States". Environmental Rearch Leters 2026, Manuscript Accepted.
+**Casirati, S.**, D'Odorico P., Fung I., Molod A., and Girotto M. "Differential impacts of irrigation on precipitation across the United States". Environmental Research Letters 2026.
 
 ```latex
 @article{Casirati2026b,
-author = {Casirati, Stefano and D'Odorico, Paolo and Fung, Inez and Molod,
-Andrea and Girotto, Manuela},
-title = {Differential impacts of irrigation on precipitation across the United States}
-year = {Accepted, 2026}
+author={Casirati, Stefano and D'Odorico, Paolo and Fung, Inez and Molod, Andrea M. and Girotto, Manuela},
+title={Differential impacts of irrigation on precipitation across the United States},
+journal={Environmental Research Letters},
+url={http://iopscience.iop.org/article/10.1088/1748-9326/ae929d},
+year={2026},
 }
 
 ```
