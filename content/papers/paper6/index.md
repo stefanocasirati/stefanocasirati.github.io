@@ -1,6 +1,6 @@
 ---
 title: "Differential impacts of irrigation on precipitation across the United States" 
-date: "2026-07-26"
+date: "2026-07-30"
 tags: ["Irrigation", "Precipitation", "Earth system model", "Land atmosphere interactions", "NASA GEOS", "Feedbacks", "Cooling", "Mesoscale Circulations"]
 author: ["<b>Stefano Casirati</b>", "Paolo D'Odorico", "Inez Fung", "Andrea Molod", "Manuela Girotto"]
 
