@@ -23,7 +23,7 @@ menu:
 params:
   description: "This website hosts Stefano Casirati's research papers, curriculum vitae, and contact information."
   author: Stefano Casirati
-  # googleAnalyticsID: "G-XXXXX"
+  googleAnalyticsID: "G-YPNLQP8REP"
   DateFormat: "2006"
   defaultTheme: light
   hideFooter: false
