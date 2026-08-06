@@ -30,11 +30,10 @@ journal={Environmental Research Letters},
 doi = {10.1088/1748-9326/ae929d},
 url = {https://doi.org/10.1088/1748-9326/ae929d},
 year = {2026},
-month = {aug},
 publisher = {IOP Publishing},
 volume = {21},
 number = {15},
-pages = {154028},
+pages = {154028}
 }
 
 ```
