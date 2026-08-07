@@ -10,7 +10,7 @@ description: "Stefano Casirati office address at UC Berkeley."
 
 #### Office address
 
-Office 227, Mulford Hall  
+Mulford Hall  
 University of California, Berkeley
 
 ---
