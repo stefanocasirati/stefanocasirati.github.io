@@ -2,353 +2,353 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Stefano Casirati</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://stefanocasirati.github.io/tags/</link>
     <description>Recent content in Tags on Stefano Casirati</description>
     <generator>Hugo -- 0.164.0</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://stefanocasirati.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cooling</title>
-      <link>http://localhost:1313/tags/cooling/</link>
+      <link>https://stefanocasirati.github.io/tags/cooling/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cooling/</guid>
+      <guid>https://stefanocasirati.github.io/tags/cooling/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth System Model</title>
-      <link>http://localhost:1313/tags/earth-system-model/</link>
+      <link>https://stefanocasirati.github.io/tags/earth-system-model/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/earth-system-model/</guid>
+      <guid>https://stefanocasirati.github.io/tags/earth-system-model/</guid>
       <description></description>
     </item>
     <item>
       <title>Feedbacks</title>
-      <link>http://localhost:1313/tags/feedbacks/</link>
+      <link>https://stefanocasirati.github.io/tags/feedbacks/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feedbacks/</guid>
+      <guid>https://stefanocasirati.github.io/tags/feedbacks/</guid>
       <description></description>
     </item>
     <item>
       <title>Irrigation</title>
-      <link>http://localhost:1313/tags/irrigation/</link>
+      <link>https://stefanocasirati.github.io/tags/irrigation/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irrigation/</guid>
+      <guid>https://stefanocasirati.github.io/tags/irrigation/</guid>
       <description></description>
     </item>
     <item>
       <title>Land Atmosphere Interactions</title>
-      <link>http://localhost:1313/tags/land-atmosphere-interactions/</link>
+      <link>https://stefanocasirati.github.io/tags/land-atmosphere-interactions/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/land-atmosphere-interactions/</guid>
+      <guid>https://stefanocasirati.github.io/tags/land-atmosphere-interactions/</guid>
       <description></description>
     </item>
     <item>
       <title>Mesoscale Circulations</title>
-      <link>http://localhost:1313/tags/mesoscale-circulations/</link>
+      <link>https://stefanocasirati.github.io/tags/mesoscale-circulations/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mesoscale-circulations/</guid>
+      <guid>https://stefanocasirati.github.io/tags/mesoscale-circulations/</guid>
       <description></description>
     </item>
     <item>
       <title>NASA GEOS</title>
-      <link>http://localhost:1313/tags/nasa-geos/</link>
+      <link>https://stefanocasirati.github.io/tags/nasa-geos/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nasa-geos/</guid>
+      <guid>https://stefanocasirati.github.io/tags/nasa-geos/</guid>
       <description></description>
     </item>
     <item>
       <title>Precipitation</title>
-      <link>http://localhost:1313/tags/precipitation/</link>
+      <link>https://stefanocasirati.github.io/tags/precipitation/</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/precipitation/</guid>
+      <guid>https://stefanocasirati.github.io/tags/precipitation/</guid>
       <description></description>
     </item>
     <item>
       <title>Budyko</title>
-      <link>http://localhost:1313/tags/budyko/</link>
+      <link>https://stefanocasirati.github.io/tags/budyko/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/budyko/</guid>
+      <guid>https://stefanocasirati.github.io/tags/budyko/</guid>
       <description></description>
     </item>
     <item>
       <title>Ecohydrology</title>
-      <link>http://localhost:1313/tags/ecohydrology/</link>
+      <link>https://stefanocasirati.github.io/tags/ecohydrology/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ecohydrology/</guid>
+      <guid>https://stefanocasirati.github.io/tags/ecohydrology/</guid>
       <description></description>
     </item>
     <item>
       <title>Evapotranspiration</title>
-      <link>http://localhost:1313/tags/evapotranspiration/</link>
+      <link>https://stefanocasirati.github.io/tags/evapotranspiration/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/evapotranspiration/</guid>
+      <guid>https://stefanocasirati.github.io/tags/evapotranspiration/</guid>
       <description></description>
     </item>
     <item>
       <title>Forest Management</title>
-      <link>http://localhost:1313/tags/forest-management/</link>
+      <link>https://stefanocasirati.github.io/tags/forest-management/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/forest-management/</guid>
+      <guid>https://stefanocasirati.github.io/tags/forest-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Hydrological Modeling</title>
-      <link>http://localhost:1313/tags/hydrological-modeling/</link>
+      <link>https://stefanocasirati.github.io/tags/hydrological-modeling/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hydrological-modeling/</guid>
+      <guid>https://stefanocasirati.github.io/tags/hydrological-modeling/</guid>
       <description></description>
     </item>
     <item>
       <title>Mediterranean Climate</title>
-      <link>http://localhost:1313/tags/mediterranean-climate/</link>
+      <link>https://stefanocasirati.github.io/tags/mediterranean-climate/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mediterranean-climate/</guid>
+      <guid>https://stefanocasirati.github.io/tags/mediterranean-climate/</guid>
       <description></description>
     </item>
     <item>
       <title>Process Based</title>
-      <link>http://localhost:1313/tags/process-based/</link>
+      <link>https://stefanocasirati.github.io/tags/process-based/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/process-based/</guid>
+      <guid>https://stefanocasirati.github.io/tags/process-based/</guid>
       <description></description>
     </item>
     <item>
       <title>Snow</title>
-      <link>http://localhost:1313/tags/snow/</link>
+      <link>https://stefanocasirati.github.io/tags/snow/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/snow/</guid>
+      <guid>https://stefanocasirati.github.io/tags/snow/</guid>
       <description></description>
     </item>
     <item>
       <title>Streamflow</title>
-      <link>http://localhost:1313/tags/streamflow/</link>
+      <link>https://stefanocasirati.github.io/tags/streamflow/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/streamflow/</guid>
+      <guid>https://stefanocasirati.github.io/tags/streamflow/</guid>
       <description></description>
     </item>
     <item>
       <title>SWAT&#43;</title>
-      <link>http://localhost:1313/tags/swat&#43;/</link>
+      <link>https://stefanocasirati.github.io/tags/swat&#43;/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/swat&#43;/</guid>
+      <guid>https://stefanocasirati.github.io/tags/swat&#43;/</guid>
       <description></description>
     </item>
     <item>
       <title>Warming</title>
-      <link>http://localhost:1313/tags/warming/</link>
+      <link>https://stefanocasirati.github.io/tags/warming/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/warming/</guid>
+      <guid>https://stefanocasirati.github.io/tags/warming/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Stress</title>
-      <link>http://localhost:1313/tags/water-stress/</link>
+      <link>https://stefanocasirati.github.io/tags/water-stress/</link>
       <pubDate>Tue, 06 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water-stress/</guid>
+      <guid>https://stefanocasirati.github.io/tags/water-stress/</guid>
       <description></description>
     </item>
     <item>
       <title>Expansion</title>
-      <link>http://localhost:1313/tags/expansion/</link>
+      <link>https://stefanocasirati.github.io/tags/expansion/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/expansion/</guid>
+      <guid>https://stefanocasirati.github.io/tags/expansion/</guid>
       <description></description>
     </item>
     <item>
       <title>Irrigation Module</title>
-      <link>http://localhost:1313/tags/irrigation-module/</link>
+      <link>https://stefanocasirati.github.io/tags/irrigation-module/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irrigation-module/</guid>
+      <guid>https://stefanocasirati.github.io/tags/irrigation-module/</guid>
       <description></description>
     </item>
     <item>
       <title>Land</title>
-      <link>http://localhost:1313/tags/land/</link>
+      <link>https://stefanocasirati.github.io/tags/land/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/land/</guid>
+      <guid>https://stefanocasirati.github.io/tags/land/</guid>
       <description></description>
     </item>
     <item>
       <title>Land Surface</title>
-      <link>http://localhost:1313/tags/land-surface/</link>
+      <link>https://stefanocasirati.github.io/tags/land-surface/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/land-surface/</guid>
+      <guid>https://stefanocasirati.github.io/tags/land-surface/</guid>
       <description></description>
     </item>
     <item>
       <title>LSM</title>
-      <link>http://localhost:1313/tags/lsm/</link>
+      <link>https://stefanocasirati.github.io/tags/lsm/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lsm/</guid>
+      <guid>https://stefanocasirati.github.io/tags/lsm/</guid>
       <description></description>
     </item>
     <item>
       <title>Model</title>
-      <link>http://localhost:1313/tags/model/</link>
+      <link>https://stefanocasirati.github.io/tags/model/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/model/</guid>
+      <guid>https://stefanocasirati.github.io/tags/model/</guid>
       <description></description>
     </item>
     <item>
       <title>NASA CLSM</title>
-      <link>http://localhost:1313/tags/nasa-clsm/</link>
+      <link>https://stefanocasirati.github.io/tags/nasa-clsm/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/nasa-clsm/</guid>
+      <guid>https://stefanocasirati.github.io/tags/nasa-clsm/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable</title>
-      <link>http://localhost:1313/tags/sustainable/</link>
+      <link>https://stefanocasirati.github.io/tags/sustainable/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable/</guid>
+      <guid>https://stefanocasirati.github.io/tags/sustainable/</guid>
       <description></description>
     </item>
     <item>
       <title>Temperature</title>
-      <link>http://localhost:1313/tags/temperature/</link>
+      <link>https://stefanocasirati.github.io/tags/temperature/</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/temperature/</guid>
+      <guid>https://stefanocasirati.github.io/tags/temperature/</guid>
       <description></description>
     </item>
     <item>
       <title>Energy</title>
-      <link>http://localhost:1313/tags/energy/</link>
+      <link>https://stefanocasirati.github.io/tags/energy/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/energy/</guid>
+      <guid>https://stefanocasirati.github.io/tags/energy/</guid>
       <description></description>
     </item>
     <item>
       <title>Water</title>
-      <link>http://localhost:1313/tags/water/</link>
+      <link>https://stefanocasirati.github.io/tags/water/</link>
       <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water/</guid>
+      <guid>https://stefanocasirati.github.io/tags/water/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Driven</title>
-      <link>http://localhost:1313/tags/data-driven/</link>
+      <link>https://stefanocasirati.github.io/tags/data-driven/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/data-driven/</guid>
+      <guid>https://stefanocasirati.github.io/tags/data-driven/</guid>
       <description></description>
     </item>
     <item>
       <title>Drought</title>
-      <link>http://localhost:1313/tags/drought/</link>
+      <link>https://stefanocasirati.github.io/tags/drought/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/drought/</guid>
+      <guid>https://stefanocasirati.github.io/tags/drought/</guid>
       <description></description>
     </item>
     <item>
       <title>GAM</title>
-      <link>http://localhost:1313/tags/gam/</link>
+      <link>https://stefanocasirati.github.io/tags/gam/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gam/</guid>
+      <guid>https://stefanocasirati.github.io/tags/gam/</guid>
       <description></description>
     </item>
     <item>
       <title>NDII</title>
-      <link>http://localhost:1313/tags/ndii/</link>
+      <link>https://stefanocasirati.github.io/tags/ndii/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ndii/</guid>
+      <guid>https://stefanocasirati.github.io/tags/ndii/</guid>
       <description></description>
     </item>
     <item>
       <title>Remote Sensing</title>
-      <link>http://localhost:1313/tags/remote-sensing/</link>
+      <link>https://stefanocasirati.github.io/tags/remote-sensing/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/remote-sensing/</guid>
+      <guid>https://stefanocasirati.github.io/tags/remote-sensing/</guid>
       <description></description>
     </item>
     <item>
       <title>Sierra Nevada</title>
-      <link>http://localhost:1313/tags/sierra-nevada/</link>
+      <link>https://stefanocasirati.github.io/tags/sierra-nevada/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sierra-nevada/</guid>
+      <guid>https://stefanocasirati.github.io/tags/sierra-nevada/</guid>
       <description></description>
     </item>
     <item>
       <title>Tree Mortality</title>
-      <link>http://localhost:1313/tags/tree-mortality/</link>
+      <link>https://stefanocasirati.github.io/tags/tree-mortality/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tree-mortality/</guid>
+      <guid>https://stefanocasirati.github.io/tags/tree-mortality/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Deficit</title>
-      <link>http://localhost:1313/tags/water-deficit/</link>
+      <link>https://stefanocasirati.github.io/tags/water-deficit/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water-deficit/</guid>
+      <guid>https://stefanocasirati.github.io/tags/water-deficit/</guid>
       <description></description>
     </item>
     <item>
       <title>Biofuel</title>
-      <link>http://localhost:1313/tags/biofuel/</link>
+      <link>https://stefanocasirati.github.io/tags/biofuel/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biofuel/</guid>
+      <guid>https://stefanocasirati.github.io/tags/biofuel/</guid>
       <description></description>
     </item>
     <item>
       <title>CO2 Emissions</title>
-      <link>http://localhost:1313/tags/co2-emissions/</link>
+      <link>https://stefanocasirati.github.io/tags/co2-emissions/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/co2-emissions/</guid>
+      <guid>https://stefanocasirati.github.io/tags/co2-emissions/</guid>
       <description></description>
     </item>
     <item>
       <title>Deforestation</title>
-      <link>http://localhost:1313/tags/deforestation/</link>
+      <link>https://stefanocasirati.github.io/tags/deforestation/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deforestation/</guid>
+      <guid>https://stefanocasirati.github.io/tags/deforestation/</guid>
       <description></description>
     </item>
     <item>
       <title>Fragmentation</title>
-      <link>http://localhost:1313/tags/fragmentation/</link>
+      <link>https://stefanocasirati.github.io/tags/fragmentation/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fragmentation/</guid>
+      <guid>https://stefanocasirati.github.io/tags/fragmentation/</guid>
       <description></description>
     </item>
     <item>
       <title>Globalization</title>
-      <link>http://localhost:1313/tags/globalization/</link>
+      <link>https://stefanocasirati.github.io/tags/globalization/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/globalization/</guid>
+      <guid>https://stefanocasirati.github.io/tags/globalization/</guid>
       <description></description>
     </item>
     <item>
       <title>Indonesia</title>
-      <link>http://localhost:1313/tags/indonesia/</link>
+      <link>https://stefanocasirati.github.io/tags/indonesia/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/indonesia/</guid>
+      <guid>https://stefanocasirati.github.io/tags/indonesia/</guid>
       <description></description>
     </item>
     <item>
       <title>Oil Palm</title>
-      <link>http://localhost:1313/tags/oil-palm/</link>
+      <link>https://stefanocasirati.github.io/tags/oil-palm/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/oil-palm/</guid>
+      <guid>https://stefanocasirati.github.io/tags/oil-palm/</guid>
       <description></description>
     </item>
     <item>
       <title>Rainforest</title>
-      <link>http://localhost:1313/tags/rainforest/</link>
+      <link>https://stefanocasirati.github.io/tags/rainforest/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rainforest/</guid>
+      <guid>https://stefanocasirati.github.io/tags/rainforest/</guid>
       <description></description>
     </item>
     <item>
       <title>Telecoupling</title>
-      <link>http://localhost:1313/tags/telecoupling/</link>
+      <link>https://stefanocasirati.github.io/tags/telecoupling/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/telecoupling/</guid>
+      <guid>https://stefanocasirati.github.io/tags/telecoupling/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Scarcity</title>
-      <link>http://localhost:1313/tags/water-scarcity/</link>
+      <link>https://stefanocasirati.github.io/tags/water-scarcity/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water-scarcity/</guid>
+      <guid>https://stefanocasirati.github.io/tags/water-scarcity/</guid>
       <description></description>
     </item>
   </channel>
